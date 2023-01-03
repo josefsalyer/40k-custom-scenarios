@@ -4,7 +4,7 @@ Santa’s Sleigh was hit by an ancient weapon that scattered presents all over t
 
 ## Scoring
 
-Units may perform an action at the end of their movement phase to pick up a present within 3” of itself. The present then must move with the unit staying within unit coherency. Points are scored by moving a captured present to within 6” of any table edge, or by moving it within 6” of Santa to be returned, or by destroying a present.
+Units may perform an action at the end of their movement phase to pick up a present within 3” of itself. The present then must move with the unit staying within unit coherency. Points are scored by moving a captured present to within 6” of any table edge, or by moving it within 6” of Santa to be returned, or by destroying a present.  A unit can pick up more than one present at a time.
 
 | Action                         | Points |
 | ------------------------------ | ------ |
@@ -33,13 +33,13 @@ Ho Ho Ho! Santa Claws is Coming to Town!
 
 | Weapon            | Range | Type         | S   | AP  | D   | Notes                                       |
 | ----------------- | ----- | ------------ | --- | --- | --- | ------------------------------------------- |
-| Candy Cane Flurry | 12”   | Assault D6+6 | 5   | -2  | 1   |
+| Candy Cane Flurry | 12”   | Assault D6+6 | 5   | -2  | 1   | Each time an attack is made with this weapon, that attack automatically hits the target. |
 | Presents Bag      | Melee | Melee        | X2  | -5  | 3   | Santa is -1 to hit with this weapon         |
 | Missile TOE       | 200”  | Heavy D3     | 16  | -4  | 4   | This weapon can only be fired once per game |
 
 ### ABILITIES
 
-**With a Nod and a Wink:** Santa may at the start of his movement phase move to any place on the board within 9” of any unit.
+**With a Nod and a Wink:** Santa may at the start of his movement phase move to any place on the board within 9” of any unit.  He will try to move to the unit with the most naughty tokens.
 
 **Now Dash Away, Dash Away, Dash Away, All!:** Santa may roll an additional d6 when charging and discard the lowest result of all three dice.
 
