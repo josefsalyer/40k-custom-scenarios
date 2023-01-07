@@ -2,9 +2,15 @@
 
 Santa’s Sleigh was hit by an ancient weapon that scattered presents all over the battlefield! These presents contain ancient technology that Santa intended to give to all the good little Magi.
 
+## Setup
+
+- Each player gets the same number of presents to place after terrain is setup
+- played take turns setting up presents within 6" of the centerline of the table
+- Presents must be placed 6” away from other presents
+
 ## Scoring
 
-Units may perform an action at the end of their movement phase to pick up a present within 3” of itself. The present then must move with the unit staying within unit coherency. Points are scored by moving a captured present to within 6” of any table edge, or by moving it within 6” of Santa to be returned, or by destroying a present.  A unit can pick up more than one present at a time.
+Units may perform an action at the end of their movement phase to pick up a present within 3” of itself.  The action completes immediately.  The present then must move with the unit staying within unit coherency. Points are scored by moving a captured present to within 6” of any table edge, or by moving it within 6” of Santa to be returned, or by destroying a present.  A unit can pick up more than one present at a time.
 
 | Action                         | Points |
 | ------------------------------ | ------ |
@@ -12,6 +18,8 @@ Units may perform an action at the end of their movement phase to pick up a pres
 | Move a present to a table edge | 3      |
 | Destroy a present              | 3      |
 | Return a present to Santa      | 5      |
+
+
 
 ## Presents
 
@@ -35,7 +43,7 @@ Ho Ho Ho! Santa Claws is Coming to Town!
 | ----------------- | ----- | ------------ | --- | --- | --- | ------------------------------------------- |
 | Candy Cane Flurry | 12”   | Assault D6+6 | 5   | -2  | 1   | Each time an attack is made with this weapon, that attack automatically hits the target. |
 | Presents Bag      | Melee | Melee        | X2  | -5  | 3   | Santa is -1 to hit with this weapon         |
-| Missile TOE       | 200”  | Heavy D3     | 16  | -4  | 4   | This weapon can only be fired once per game |
+| Missile TOE       | 200”  | Heavy D3     | 16  | -4  | 4   | This weapon can only be fired only by rolling a d6 and getting a 4+ |
 
 ### ABILITIES
 
@@ -52,6 +60,10 @@ Ho Ho Ho! Santa Claws is Coming to Town!
 - moves a present off the board
 
 Santa will remove all naughty tokens from a unit that returns a present to Santa. The maximum of tokens a unit can have is 6.
+
+- When a player kills a unit with naughty tokens the player can choose to take the naughty tokens as points or they can remove tokens from the killing unit  
+
+- Santa will attack the player with the most naughty tokens
 
 #### **Naughty Token Effects**
 
