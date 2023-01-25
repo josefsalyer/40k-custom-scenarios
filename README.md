@@ -5,7 +5,7 @@ These scenarios are some fun different ways to play 40k.  Perfect for any group 
 ## Scenarios
 
 - [Santa Claws](./SantaClaws.md)
-- [We're Going on a Snipe Hubt](./SnipeHunt.md)
+- [We're Going on a Snipe Hunt](./SnipeHunt.md)
 
 ### License
 
