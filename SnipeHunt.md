@@ -13,7 +13,7 @@ This scenario uses a battle royale style of play.
 
 ### Snipe Hunt
 
-Every turn any unit that ends its movement outside the deployment zone it *must* perform an action to look for Snipe. 
+Every turn any unit that ends its movement outside the deployment zone it can perform an action to look for Snipe. A player who has units outside of their deployment zone _must_ perform this action at least once.  Each player _may_ perform the action more than once per turn for each unit outside of their deployment zone.
 
 For each model in the unit, roll 1d6. Consult the following table to determine if a snipe unit appears and how many models are in that unit plus the number of threshold results.
 
@@ -38,7 +38,7 @@ An Ork player has a unit of 10 boys that perform the action on turn 1.  The play
 
 ## Snipe
 
-Snipe are on a 25mm base. The maximum number of snipe in a unit is 30.
+Snipe are on a 25mm base.
 
 | Turn | M   | WS  | BS  | S   | T   | W   | A   | L   | DSV |
 | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -56,6 +56,14 @@ Snipe are equipped sharp teeth and nasty claws.
 | Range | Type  | S    | AP  | D   |
 | ----- | ----- | ---- | --- | --- |
 | Melee | Melee | User | -2  | 1   |
+
+### Abilities
+
+**Here Snipe, Snipe, Snipe**: A Snipe unit will always move towards the closest unit.  If two or more units are the same distance away, it will move towards the unit with the lowest leadership.  If two or more units are both equidistant and have the same leadership, each unit must make a leadership test minus the number of models in this Snipe unit.
+
+**They're Swarming!**: Snipe units within movement range of other Snipe units will merge their units together into a single larger unit.-
+
+**Mythical Nature**: Snipe are -1 to hit with ranged weapons and pistols.
 
 ## Scoring
 
