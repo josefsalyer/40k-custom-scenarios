@@ -40,6 +40,7 @@ Snipe are equipped sharp teeth and nasty claws.
 ### Weapons
 
 #### Sharp Teeth and Nasty Claws
+
 | Range | Type  | S    | AP  | D   |
 | ----- | ----- | ---- | --- | --- |
 | Melee | Melee | User | -2  | 1   |
